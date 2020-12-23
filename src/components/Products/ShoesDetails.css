@@ -1,0 +1,28 @@
+.root {
+  min-width: 500px;
+}
+
+.title {
+  font-family: "Bebas Neue", cursive !important;
+  font-size: 30px !important;
+  font-size: bold;
+  color: black;
+}
+
+.img-size {
+  width: 500px;
+  height: 500px;
+}
+
+.abt {
+  font-family: "Bebas Neue", cursive !important;
+  font-size: 30px !important;
+  font-size: bold;
+  color: black;
+}
+
+.text {
+  width: 500px;
+  justify-content: center;
+  text-align: justify;
+}
